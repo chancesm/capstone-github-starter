@@ -11,11 +11,11 @@ Personal assignment:
 - Make different changes to the file, check in
   
 Turn in write-up including
-- Instruction to setup the repository
-- Instruction to import/clone the repository
-- Screen shot of your client (GUI or console)
-- File history dump (screen shot) showing file was added, changed, reverted
-- Screen shot of file diff for one of the check-ins
+- [x] Instruction to setup the repository
+- [x] Instruction to import/clone the repository
+- [x] Screen shot of your client (GUI or console)
+- [x] File history dump (screen shot) showing file was added, changed, reverted
+- [x] Screen shot of file diff for one of the check-ins
 ---
 
 ## Step 1 - Create Github Repo
@@ -49,10 +49,14 @@ Git Lens will show the status of the repo, any uncommitted changes, the file and
 ### Git Lens Extension (with git status in Terminal)
 ![Git Lens Extension][gitLens]
 ---
+## File History and Diff Viewer
 
+### File History (left sidebar) with commit diff (editor)
+![File History and Commit Diff][fileHistoryCommmitDiff]
 
 
 
 <!-- Image Resources -->
 [defaultGit]: images/defaultGit.png "VSCode Git Extension"
 [gitLens]: images/gitLens.png "Git Lens Extension"
+[fileHistoryCommmitDiff]: images/fileHistoryCommitDiff.png "File History and Commit Diff"
