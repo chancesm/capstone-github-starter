@@ -17,7 +17,8 @@ Turn in write-up including
 - [x] File history dump (screen shot) showing file was added, changed, reverted
 - [x] Screen shot of file diff for one of the check-ins
 ---
-
+### This writeup is also the README for the repo. It can be found at https://github.com/chancesm/capstone-github-starter
+---
 ## Step 1 - Create Github Repo
 * Log into Github
 * Click the "New" button at the to of the repositories list
