@@ -1,1 +1,1 @@
-console.log("This will be a part of my first commit");
+console.log("This will be a part of my second commit. I will end up reverting this.");
