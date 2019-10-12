@@ -32,7 +32,7 @@ Turn in write-up including
   * This will look like one of the following URLs
     * `https://github.com/[NAME]/[REPO].git`
     * `git@github.com:[NAME]/[REPO].git`
-  * I chose the ssh version(the second one) because I already have ssh keys set up on my laptop.
+  * I chose the ssh version (the second one) because I already have ssh keys set up on my laptop.
 * Clone the repository locally by running the following command:
   * `git clone [REPOSITORY_URL]`
   * You should see a message indicating that the repository was empty.
